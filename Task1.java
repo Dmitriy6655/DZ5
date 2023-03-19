@@ -4,7 +4,7 @@
 import java.util.HashMap;
 import java.util.Map;
 
-public class DZ5_task1 {
+public class Task1 {
 
     public static void main(String[] args) {
 
